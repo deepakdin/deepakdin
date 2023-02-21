@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Azure Solutions
+- 🌱 I’m currently learning Containerization technologies
+
 <!--
 **deepakdin/deepakdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
